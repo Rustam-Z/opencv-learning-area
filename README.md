@@ -19,3 +19,4 @@ Rustam_Z🚀 | January 10, 2021
 
 ## Tutorials
 - https://youtu.be/WQeoO7MI0Bs
+- https://www.murtazahassan.com/courses/learn-opencv-in-3-hours
