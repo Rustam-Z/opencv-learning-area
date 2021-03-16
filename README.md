@@ -26,4 +26,4 @@ Rustam_Z🚀 | January 10, 2021
 - https://www.freecodecamp.org/news/getting-started-with-tesseract-part-ii-f7f9a0899b3f/
 - https://medium.com/free-code-camp/getting-started-with-tesseract-part-i-2a6a6b1cf75e
 - https://tesseract-ocr.github.io/tessdoc/ImproveQuality
-- https://docs.opencv.org/master/d7/d4d/tutorial_py_thresholding.html - Pre processing with Tesseract
+- https://docs.opencv.org/master/d7/d4d/tutorial_py_thresholding.html - Pre processing with OpenCV
