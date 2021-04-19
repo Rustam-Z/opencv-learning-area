@@ -18,6 +18,7 @@ Rustam_Z🚀 | January 10, 2021
 3. Number Plate Detection
 
 ## Tutorials
+- https://docs.opencv.org/master/d6/d00/tutorial_py_root.html
 - https://youtu.be/WQeoO7MI0Bs
 - https://www.murtazahassan.com/courses/learn-opencv-in-3-hours
 
@@ -26,4 +27,8 @@ Rustam_Z🚀 | January 10, 2021
 - https://www.freecodecamp.org/news/getting-started-with-tesseract-part-ii-f7f9a0899b3f/
 - https://medium.com/free-code-camp/getting-started-with-tesseract-part-i-2a6a6b1cf75e
 - https://tesseract-ocr.github.io/tessdoc/ImproveQuality
-- https://docs.opencv.org/master/d7/d4d/tutorial_py_thresholding.html - Pre processing with OpenCV
+- [Pre-processing with OpenCV](https://docs.opencv.org/master/d7/d4d/tutorial_py_thresholding.html)
+
+## Additional resources
+- [Python tutorial](https://docs.python.org/3/tutorial/)
+- [Numpy quickstart](https://numpy.org/devdocs/user/quickstart.html)
