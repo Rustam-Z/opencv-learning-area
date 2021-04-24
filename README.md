@@ -9,7 +9,7 @@ Rustam-Z🚀 • January 10, 2021 • April 21, 2021
 - Image properties (edit pixel value, ROI, working with channels)
 - Essential functions (grayscale, blur, dilation & erosion, edge cascade)
 - Image transformation (translation=shifting, rotation, flip)
-
+- Image contours
 ## Resources
 - [Python tutorial](https://docs.python.org/3/tutorial/)
 - [** OpenCV official tutorial](https://docs.opencv.org/master/d6/d00/tutorial_py_root.html)
