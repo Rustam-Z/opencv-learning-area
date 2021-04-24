@@ -1,11 +1,14 @@
 # OpenCV Project Based Learning
 Rustam-Z🚀 • January 10, 2021 • April 21, 2021
 
-## Contents:
+## Contents
 - Reading images & videos
-- Resizing & rescaling
+- Saving images & videos
+- Resizing image and frame
 - Drawing shapes and putting text (rectangle, circle, line, text)
-- Essential functions
+- Image properties (edit pixel value, ROI, working with channels)
+- Essential functions (grayscale, blur, dilation & erosion, edge cascade)
+- Image transformation (translation=shifting, rotation, flip)
 
 ## Resources
 - [Python tutorial](https://docs.python.org/3/tutorial/)

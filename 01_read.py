@@ -1,7 +1,7 @@
 import cv2
 
 # Read image
-img = cv2.imread("img/elon.png", )
+img = cv2.imread("img/elon.png") # Translates to cv::Mat object
 cv2.imshow('Elon', img)
 cv2.waitKey(0)
 
