@@ -7,9 +7,12 @@ Rustam-Z🚀 • January 10, 2021 • April 21, 2021
 - Resizing image and frame
 - Drawing shapes and putting text (rectangle, circle, line, text)
 - Image properties (edit pixel value, ROI, working with channels)
-- Essential functions (grayscale, blur, dilation & erosion, edge cascade)
-- Image transformation (translation=shifting, rotation, flip)
+- Essential / Basic functions (grayscale, blur, dilation & erosion, edge cascade)
+- Image transformations (translation=shifting, rotation, flip)
 - Image contours
+- *Smoothing Images
+- Morphological Transformations (erosion, dilation, opening, closing0
+
 ## Resources
 - [Python tutorial](https://docs.python.org/3/tutorial/)
 - [** OpenCV official tutorial](https://docs.opencv.org/master/d6/d00/tutorial_py_root.html)

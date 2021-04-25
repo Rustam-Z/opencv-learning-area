@@ -24,6 +24,7 @@ cv2.imshow("ROI", img)
 
 """Splitting and Merging Image Channels"""
 # b,g,r = cv2.split(img) 
+# merged = cv2.merge([b, g, r])
 b = img[:,:,0] # Blue, "Select BLUE channel within the full HEIGHT and WIDTH of image"
 g = img[:,:,1] # Green
 r = img[:,:,2] # Red
@@ -33,6 +34,7 @@ cv2.imshow("Green", g)
 cv2.imshow("Red", r)
 
 img[:,:,2] = 0 # Set all the red pixels to zero
+# img[:,:,1] = 0 # Set all green to zero
 cv2.imshow("Without red", img)
 
 cv2.waitKey(0)
