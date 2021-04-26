@@ -2,7 +2,7 @@ import cv2 as cv
 import numpy as np
 from matplotlib import pyplot as plt
 
-image_path = "/home/rustam-z/ML/plate-recognition/detections/crop/3/licence_plate_1.png"
+image_path = "img/lp.png"
 
 img = cv.imread(image_path ,0)
 
