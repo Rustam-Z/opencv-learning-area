@@ -3,7 +3,7 @@ import numpy as np
 from matplotlib import pyplot as plt
 
 # 644, 701, 771, 772, 1, 2, *3 (needs to be alligned), *8 (needs to be resized), 9, 10, 11
-image_path = "/home/rustam-z/ML/plate-recognition/detections/crop/11/licence_plate_1.png"
+image_path = "img/lp.png"
 
 img = cv.imread(image_path,0)
 img = cv.medianBlur(img,5)
