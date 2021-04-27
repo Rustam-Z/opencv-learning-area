@@ -2,7 +2,7 @@ import cv2 as cv
 import numpy as np
 from matplotlib import pyplot as plt
 
-image_path = "img/lp.png"
+image_path = "img/lp3.png"
 
 img = cv.imread(image_path ,0)
 

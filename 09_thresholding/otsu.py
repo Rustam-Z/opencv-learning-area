@@ -2,7 +2,7 @@ import cv2 as cv
 import numpy as np
 from matplotlib import pyplot as plt
 
-image_path = "img/lp7.png"
+image_path = "img/lp.png"
 
 img = cv.imread(image_path ,0)
 # global thresholding
