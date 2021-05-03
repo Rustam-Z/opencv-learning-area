@@ -11,7 +11,10 @@ Rustam-Z🚀 • January 10, 2021 • April 21, 2021
 - Image transformations (translation=shifting, rotation, flip)
 - Image contours
 - *Smoothing Images
-- Morphological Transformations (erosion, dilation, opening, closing0
+- Morphological Transformations (erosion, dilation, opening, closing)
+- Thresholding
+- Bitwise operators
+- Histograms 
 
 ## Resources
 - [Python tutorial](https://docs.python.org/3/tutorial/)
